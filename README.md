@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/touch-my-soul/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Touch My Soul](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/touch-my-soul/) |
+| **Get License** | [Commercial Licensing for Touch My Soul](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/touch-my-soul/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the temperature rising when you pull me near
+> Every shadow melting away, everything is clear
+> Just a soft look in your eyes, striking like a spark
+> We are dancing on the edges, glowing in the dark
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
