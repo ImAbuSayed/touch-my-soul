@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/touch-my-soul/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Touch My Soul](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/touch-my-soul/) |
+| **Get License** | [Get License For Touch My Soul](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/touch-my-soul/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `cddc11aaa04828d5493a103711ea959a3cdde1c1c31bbc06a53be6145a9ed4f8` |
 | **Timestamp** | May 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
